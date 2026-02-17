@@ -10,9 +10,22 @@ h1{
     color: #ffed00;
 }
 
+#proyectos{
+    color: #ffed00;
+}
+
 p{
     color: white;
 }
 footer{
     background-color: #2c2f38;
+}
+
+.btn{
+    background-color: #192230;
+    color: white;
+}
+
+.card-text{
+    color: #192230;
 }
